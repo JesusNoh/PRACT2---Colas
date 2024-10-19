@@ -95,8 +95,6 @@ class Cola(ColaInterface):
             indice += 1
             nodo = nodo.siguiente
 
-
-# Ejemplo de uso de la cola con pedidos
 if __name__ == "__main__":
     cola = Cola()
     
